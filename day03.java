@@ -5,6 +5,6 @@ public class day03 {
     System.out.println("enter the value:");
     Scanner b= new Scanner(System.in);
     a=b.nextInt();
-    System.out.println("entered valued:"+ a); 
+    System.out.println("entered valued: "+ a); 
     }
 }
