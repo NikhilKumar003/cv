@@ -8,5 +8,7 @@ public class day04 {
      System.out.println(d);
      c++; //uniary operators
      System.out.println(c);
+     System.out.println(c>d);
+     System.out.println(d<c||d!=c);
     }
 }
