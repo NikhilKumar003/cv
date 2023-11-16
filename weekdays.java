@@ -17,7 +17,7 @@ public class weekdays {
                 case 6: dayName = "Friday"; break;
                 case 7: dayName = "Saturday"; break;     
             
-                default: dayName = "Invaid dayName";
+                default: dayName = "Invaid dayName source codegit";
                     break;
             }
                 return dayName;
