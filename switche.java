@@ -6,7 +6,7 @@ public class switche {
         {
             case 77: System.out.println("a will win");
             break;
-            case 73: System.out.println("b will win");
+            case 73: System.out.println("b will win definately");
         }
     }
 }
