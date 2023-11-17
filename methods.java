@@ -13,9 +13,9 @@ public class methods {
         System.out.println(a+b);
     }
     int multiplyNum(int a, int b){
-        int x= a*b;
-        System.out.println(x);
-        return x;
+        int y= a*b;
+        System.out.println(y);
+        return y;
        
     }
 }
